@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "3vdpP3b5NC2SZ2zCdmzxjk1DvH+oEmh/x2nBjs94eKDx/zE0MOCzZlrOi+oyr8m5l1luJ44TaqGMQxAuXuWVXA==",
+  "success": true,
+  "projectFilePath": "D:\\Studies\\4_kurs_1_sem\\KursWork\\PSP\\code_list\\Game\\RaceGame.Api\\PSP.GameAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maksi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\opentk.mathematics\\4.6.7\\opentk.mathematics.4.6.7.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

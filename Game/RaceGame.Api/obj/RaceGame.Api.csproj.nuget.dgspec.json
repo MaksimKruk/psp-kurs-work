@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Studies\\4_kurs_1_sem\\KursWork\\PSP\\Game\\Game\\RaceGame.Api\\RaceGame.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\Studies\\4_kurs_1_sem\\KursWork\\PSP\\Game\\Game\\RaceGame.Api\\RaceGame.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Studies\\4_kurs_1_sem\\KursWork\\PSP\\Game\\Game\\RaceGame.Api\\RaceGame.Api.csproj",
+        "projectName": "RaceGame.Api",
+        "projectPath": "D:\\Studies\\4_kurs_1_sem\\KursWork\\PSP\\Game\\Game\\RaceGame.Api\\RaceGame.Api.csproj",
+        "packagesPath": "C:\\Users\\maksi\\.nuget\\packages\\",
+        "outputPath": "D:\\Studies\\4_kurs_1_sem\\KursWork\\PSP\\Game\\Game\\RaceGame.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maksi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Studies\\4_kurs_1_sem\\KursWork\\PSP\\Game\\Game\\RaceGame.Common\\RaceGame.Common.csproj": {
+                "projectPath": "D:\\Studies\\4_kurs_1_sem\\KursWork\\PSP\\Game\\Game\\RaceGame.Common\\RaceGame.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "OpenTK.Mathematics": {
+              "target": "Package",
+              "version": "[4.6.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

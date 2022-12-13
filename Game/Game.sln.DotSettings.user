@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7296bfab_002Dab15_002D4d4e_002D9300_002Dc2ae837f3bdd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="When_CreateCar_ThenNewCarObjectReturned" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::B6B30E7E-2CFE-4F36-8A68-6A794F8D3453::net5.0::PSP.GameTest.Services.MoveServiceTest.When_CarMoveBack_Then_SpeedChanged&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B6B30E7E-2CFE-4F36-8A68-6A794F8D3453::net5.0::PSP.GameTest.Controllers.GamerControllerTest.Post_AddPlayer_ReturnsCarObject&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B6B30E7E-2CFE-4F36-8A68-6A794F8D3453::net5.0::PSP.GameTest.Controllers.GamerControllerTest.Get_ReturnsEnemyCarObject&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B6B30E7E-2CFE-4F36-8A68-6A794F8D3453::net5.0::PSP.GameTest.Controllers.GamerControllerTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
